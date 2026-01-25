@@ -24,7 +24,7 @@ export default function Home() {
           Authorize your Instagram Business account to enable automated replies.
         </p>
 
-        <a href="/auth/login" style={{ textDecoration: "none" }}>
+        <a href="/auth/connect" style={{ textDecoration: "none" }}>
           <button style={{
             padding: "12px 24px",
             fontSize: 16,
